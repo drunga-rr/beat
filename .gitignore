@@ -1,0 +1,11 @@
+# Variáveis e credenciais locais
+.env
+.env.*
+!.env.example
+
+# Arquivos Python
+__pycache__/
+*.pyc
+
+# Arquivos de ambiente e sistema
+.DS_Store
